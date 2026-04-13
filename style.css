@@ -38,7 +38,7 @@ nav{
     background: rgba(0, 0, 0, 0.76);
     color: aliceblue;
     margin: 20px;
-    transition: all 5s;
+    transition: all 2s;
     width: 500px;
     height: fit-content;
     padding: 10px;
@@ -55,7 +55,7 @@ nav{
     background: rgba(0, 0, 0, 0.726);
     color: aliceblue;
         margin: 20px;
-            transition: all 5s;
+            transition: all 2s;
          width: 500px;
     height: fit-content;  
       padding: 10px; 
@@ -71,7 +71,7 @@ nav{
     background: rgba(0, 0, 0, 0.712);
     color: aliceblue;
         margin: 20px;
-                    transition: all 5s;
+                    transition: all 2s;
   width: 500px; 
     padding: 10px;
 }
@@ -87,7 +87,7 @@ nav{
     color: aliceblue;
         margin:20px;
 width: 500px;
-                    transition: all 5s;  
+                    transition: all 2s;  
                       padding: 10px;
 }
 .p4:hover{
@@ -102,7 +102,7 @@ width: 500px;
     color: rgb(224, 227, 230);
         margin: 20px;
   width: 500px;
-                      transition: all 5s; 
+                      transition: all 2s; 
                         padding: 10px;
 }
 .p5:hover{
